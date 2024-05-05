@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Grass
+    uniqueID: 3456310671
+    locked: 0
+  - name: Ground
+    uniqueID: 2939858667
+    locked: 0
+  - name: Props
+    uniqueID: 4278971213
+    locked: 0
+  - name: Water
+    uniqueID: 1485425603
+    locked: 0
