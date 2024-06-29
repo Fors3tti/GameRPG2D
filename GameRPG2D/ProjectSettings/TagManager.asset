@@ -53,6 +53,9 @@ TagManager:
   - name: Water
     uniqueID: 1485425603
     locked: 0
+  - name: NPC
+    uniqueID: 69022241
+    locked: 0
   - name: Player
     uniqueID: 1283165985
     locked: 0
